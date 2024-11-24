@@ -1,1 +1,25 @@
+body, html {
+    margin: 0px;
+    font-family: Tahoma, Arial, Helvetica, sans-serif; }
 
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #280549;
+    color: white;
+    font-size: 30px; }
+
+.content {
+    padding: 20px; }
+
+a, a:visited {
+    color: #280549;
+    text-decoration: none; }
+
+a:hover, a:visited:hover {
+    color: blueviolet;
+    text-decoration: solid underline; }
+
+a:active, a:visited:active {
+    color: blue;
+    text-decoration: none; }
